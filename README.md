@@ -9,7 +9,8 @@ El proyecto cumple con la función de obtener las imágenes usando esta técnica
 ## Instalación
 Para la realización de esta actividad se hizo uso de las siguientes herramientas:
 - Jupyter Notebook
-Librerías o módulos como:
+
+###### Librerías o módulos como:
 - Selenium
 - Sys
 - Math
